@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Ermiyas%20Assefa&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Engineering%20Specialist&descSize=20&descAlignY=65" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Ermiyas%20Assefa&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
 </div>
 
 <br/>
@@ -344,7 +344,7 @@ This README profile is my own original work. Feel free to fork and customize it 
   
 ### 🌟 Innovating Today, Inspiring Tomorrow 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate;Let's+build+something+amazing+together!" alt="Thank You"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+connect;Let's+build+together!" alt="Thank You"/>
 
 ⭐ If you found this interesting, please star my repositories!
 
