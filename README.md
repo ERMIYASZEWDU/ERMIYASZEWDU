@@ -350,6 +350,6 @@ This README profile is my own original work. Feel free to fork and customize it 
 
 <br/>
 
-**Made with 💙 by Ermiyas Assefa | © 2026**
+**Made with 💙 by Ermiyas Zewdu | © 2026**
 
 </div>
