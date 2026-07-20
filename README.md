@@ -57,7 +57,7 @@ I am a **Computer Science graduate from Ethiopia** with hands-on experience in I
 | 🎓 Education | 💼 Experience | 🛠️ Technologies | 🚀 Projects |
 |:---:|:---:|:---:|:---:|
 | **B.Sc. Computer Science** | **2+ Years** | **5+ Mastered** | **10+ Completed** |
-| Addis Ababa University | IT Support & Development | Python, JavaScript, PHP | Full-Stack Apps |
+| Ambo University | IT Support & Development | Python, JavaScript, PHP | Full-Stack Apps |
 
 </div>
 
@@ -287,7 +287,7 @@ Professional personal portfolio showcasing skills and projects
 | GitHub | [@ERMIYASZEWDU](https://github.com/ERMIYASZEWDU) | Code & Projects |
 | LinkedIn | [@ermiyas2](https://linkedin.com/in/ermiyas2) | Professional Network |
 | Portfolio | [ermiyas-portfolio-ten.vercel.app](https://ermiyas-portfolio-ten.vercel.app) | Projects & Resume |
-| Email | [ermiyaszewdu@gmail.com](mailto:ermiyaszewdu@gmail.com) | Direct Contact |
+| Email | [ermiyaszewdu@gmail.com](mailto:ermiyaszewdu266@gmail.com) | Direct Contact |
 
 </div>
 
