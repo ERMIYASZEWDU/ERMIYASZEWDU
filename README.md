@@ -54,10 +54,10 @@ I am a **Computer Science graduate from Ethiopia** with hands-on experience in I
 
 <div align="center">
   
-| 🎓 Education | 💼 Experience | 🛠️ Technologies | 🚀 Projects |
+| 🎓 Education | 💼 Experience | 🛠️ Technologies |🎓 Education |
 |:---:|:---:|:---:|:---:|
-| **B.Sc. Computer Science** | **2+ Years** | **5+ Mastered** | **10+ Completed** |
-| Ambo University | IT Support & Development | Python, JavaScript, PHP | Full-Stack Apps |
+| **B.Sc. Computer Science** | **2+ Years** | **5+ Mastered** | **Intelligence Data and AI Engineering** |
+| Ambo University | IT Support & Development | Python, JavaScript, PHP | Addis Ababa University |
 
 </div>
 
