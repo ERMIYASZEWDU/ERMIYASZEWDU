@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Ermiyas%20Assefa&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Ermiyas%20Zewdu&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
 </div>
 
 <br/>
