@@ -287,7 +287,7 @@ Professional personal portfolio showcasing skills and projects
 | GitHub | [@ERMIYASZEWDU](https://github.com/ERMIYASZEWDU) | Code & Projects |
 | LinkedIn | [@ermiyas2](https://linkedin.com/in/ermiyas2) | Professional Network |
 | Portfolio | [ermiyas-portfolio-ten.vercel.app](https://ermiyas-portfolio-ten.vercel.app) | Projects & Resume |
-| Email | [ermiyaszewdu@gmail.com](mailto:ermiyaszewdu266@gmail.com) | Direct Contact |
+| Email | [ermiyaszewdu266@gmail.com](mailto:ermiyaszewdu266@gmail.com) | Direct Contact |
 
 </div>
 
