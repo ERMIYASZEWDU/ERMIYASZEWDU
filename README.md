@@ -9,7 +9,7 @@
 ## 👋 Welcome to My Profile
 
 <div align="center">
-  <h3>Computer Science Graduate | IT Support Specialist | AI & Data Engineering Enthusiast</h3>
+  <h3>Computer Science Graduate | IT Support Specialist | AI & Data Engineering</h3>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Full-Stack+Development;Cloud+Computing" alt="Typing Animation"/>
   </p>
